@@ -2,8 +2,12 @@
   "id": "shisa",
   "pluginType": "model-provider",
   "name": "Shisa (hub provider)",
+  "summary": "A hub model provider.",
   "provider": {
     "apiVersion": 1,
     "module": "provider.mjs"
+  },
+  "release": {
+    "repository": "sabishii-me/agent-hub-model-provider-shisa"
   }
 }
