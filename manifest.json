@@ -1,6 +1,6 @@
 {
   "id": "shisa",
-  "kind": "model-provider",
+  "pluginType": "model-provider",
   "name": "Shisa (hub provider)",
   "provider": {
     "apiVersion": 1,
